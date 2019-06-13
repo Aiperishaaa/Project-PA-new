@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":["body {\r\n    padding: 0;\r\n    margin: 0;\r\n    font-family: 'Exo 2'!important;\r\n    background: rgb(150, 196, 240);\r\n}"]}
